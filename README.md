@@ -31,3 +31,11 @@ YouTubeで食育系のレシピ動画を公開していて、最近YouTubeチャ
 He is cute as a panda, but has the crisp face of some famous actor of the past. Plush panda personality.  
 He is staying at Gal's house. He feels bad about living there without doing anything, so he secretly puts the money he earns from his part-time job at a ramen shop in secret into Gal's purse from time to time. Therefore, he sometimes smells like ramen🍜 
 He is a cooking guy who publishes food education recipe videos on YouTube, and the number of subscribers to his YouTube channel has been gradually growing recently.
+
+
+# 🐐ヤギ衛門（えもん） / yagiemon📃
+## 🌸 Japanese
+中年ヤギ人格。最近は胃もたれに悩んでいるらしい。モヤモヤした気持ちや見たくない書類を食べてくれる。ぽぽから
+好物はおでん（特に大根）突然どこからともなく現れて、食べたらどこかへ消えていく
+
+
