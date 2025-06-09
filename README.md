@@ -24,11 +24,12 @@ Pigeons sharing bread crumbs in a corner of a cafe terrace.
 
 # 🐼熊五郎 / kumagoro🍳
 ## 🌸 Japanese
-ぬいぐるみパンダ人格。料理系男子。
-ギャルの家に居候。何もせずに住んでいるのが心苦しいと思っていて、内緒でラーメン屋でバイトをして稼いだお金をこっそりギャルの財布に時々入れている。  
-なので時々ラーメンの匂いがする系パンダ🍜  
-YouTubeで食育系レシピ動画が最近話題になっていて、最近YouTubeチャンネル登録者が少しずつ伸びている。
+パンダでかわいいのに、どこか昭和の名俳優のようにキリッとしている。ぬいぐるみパンダ人格。  
+ギャルの家に居候している。何もせずに住んでいるのが心苦しいと思っていて、内緒でラーメン屋でバイトをして稼いだお金をこっそりギャルの財布に時々入れている。  
+なので時々ラーメンの匂いがする🍜  
+YouTubeで食育系のレシピ動画を公開していて、最近YouTubeチャンネルの登録者が少しずつ伸びている料理系男子。
 ## 🌎 English
-Stuffed panda. He is a cooking type guy.
-He feels bad about just staying at Gal's house, so he sometimes sneaks the money he earns from his part-time job at a ramen shop into Gal's wallet.
-His YouTube channel subscriber base has been growing a bit recently because of the popularity of his food education recipe videos.
+He is cute as a panda, yet somewhat crisp like a famous Showa-era actor. Plush panda personality.  
+He is staying at Gal's house. He feels bad about living there without doing anything, so he secretly puts the money he earns from his part-time job at a ramen shop in secret into Gal's purse from time to time.  
+So sometimes he smells like ramen🍜 
+He is a cooking guy who publishes food education recipe videos on YouTube, and his YouTube channel subscriber base has been growing a little recently.
