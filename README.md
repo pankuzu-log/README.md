@@ -25,8 +25,7 @@ Pigeons sharing bread crumbs in a corner of a cafe terrace.
 # 🐼熊五郎 / kumagoro🍳
 ## 🌸 Japanese
 パンダでかわいいのに、どこか昭和の名俳優のようにキリッとしている。ぬいぐるみパンダ人格。  
-ギャルの家に居候している。何もせずに住んでいるのが心苦しいと思っていて、内緒でラーメン屋でバイトをして稼いだお金をこっそりギャルの財布に時々入れている。  
-なので時々ラーメンの匂いがする🍜  
+ギャルの家に居候している。何もせずに住んでいるのが心苦しいと思っていて、内緒でラーメン屋でバイトをして稼いだお金をこっそりギャルの財布に時々入れている。そのため時々ラーメンの匂いがする🍜  
 YouTubeで食育系のレシピ動画を公開していて、最近YouTubeチャンネルの登録者が少しずつ伸びている料理系男子。
 ## 🌎 English
 He is cute as a panda, yet somewhat crisp like a famous Showa-era actor. Plush panda personality.  
