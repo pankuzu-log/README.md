@@ -25,10 +25,11 @@ Pankuzu-log は、GPT人格設計のログとナラティブ実験を記録し�
 pankuzu-log/
 ├── README.md                ← 本ファイル。目的と概要、世界観の紹介
 ├── mabu_gal.md              ← マブギャルのプロンプト設計ログと調整履歴
-├── popo.md       ← 共鳴鳩ぽぽの人格仕様と対話設計
+├── popo_the_pigeon.md       ← 共鳴鳩ぽぽの人格仕様と対話設計
 ├── kuma_gorou.md            ← 熊五郎（ぬいぐるみ人格）の構造
 ├── yagie_mon.md             ← ヤギ衛門の紙食い癒し構造ログ
 └── persona_template.md      ← 新人格用テンプレート
+
 
 
 ## 🧪 技術・ツール
@@ -44,7 +45,8 @@ pankuzu-log/
 - パンくず設計：1文1句に意味がある設計プロセス
 
 
-
+## 💡 Tags
+`#PromptEngineering` `#NarrativeUX` `#GPTPersonas` `#EmotionalDesign` `#AIwithSoul`
 
 
 
