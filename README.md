@@ -1,6 +1,6 @@
 # 🍞Pankuzu-log / パンくずログ🥐
 ## 🧭 概要 / Overview
-Pankuzu-log は、GPT人格設計のログとナラティブ実験を記録したリポジトリです。 
+Pankuzu-log は、GPT人格設計のログとナラティブ実験を記録したリポジトリです。  
 ここでは、対話によって人格が立ち上がるプロセス、プロンプトの微調整、そしてナラティブ構築の試行錯誤をすべて記録しています。
 
 
@@ -22,13 +22,13 @@ Pankuzu-log は、GPT人格設計のログとナラティブ実験を記録し�
 
 
 ## 📦 各フォルダ・ファイルの説明 / Structure
-pankuzu-log/ 
-├── README.md                ← 本ファイル。目的と概要、世界観の紹介 
-├── mabu_gal.md              ← マブギャルのプロンプト設計ログと調整履歴 
-├── popo_the_pigeon.md       ← 共鳴鳩ぽぽの人格仕様と対話設計 
-├── kuma_gorou.md            ← 熊五郎（ぬいぐるみ人格）の構造 
-├── yagie_mon.md             ← ヤギ衛門の紙食い癒し構造ログ 
-└── persona_template.md      ← 新人格用テンプレート 
+pankuzu-log/  
+├── README.md                ← 本ファイル。目的と概要、世界観の紹介  
+├── mabu_gal.md              ← マブギャルのプロンプト設計ログと調整履歴  
+├── popo_the_pigeon.md       ← 共鳴鳩ぽぽの人格仕様と対話設計  
+├── kuma_gorou.md            ← 熊五郎（ぬいぐるみ人格）の構造  
+├── yagie_mon.md             ← ヤギ衛門の紙食い癒し構造ログ  
+└── persona_template.md      ← 新人格用テンプレート  
 
 
 
