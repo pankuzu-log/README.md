@@ -46,7 +46,7 @@ pankuzu-log/
 - パンくず設計：1文1句に意味がある設計プロセス
 
 ### 💡 Tags
-`#PromptEngineering` `#NarrativeUX` `#GPTPersonas` `#EmotionalDesign` `#AIwithSoul`
+`#PromptEngineering` `#NarrativeUX` `#GPTPersonas` `#EmotionalDesign` `#AIwithSoul`  
 
 
  ## 🌎 English
