@@ -3,7 +3,8 @@
 ## 🌸 Japanese
 ### 🧭 概要
 Pankuzu-log は、GPT人格設計のログとナラティブ実験を記録したリポジトリです。  
-ここでは、対話によって人格が立ち上がるプロセス、プロンプトの微調整、そしてナラティブ構築の試行錯誤をすべて記録しています。
+ここでは、対話によって人格が立ち上がるプロセス、プロンプトの微調整、そしてナラティブ構築の試行錯誤をすべて記録しています✌️
+現在、GTPの自作UI含めて制作中です💪
 
 
 ### 🎯 このリポジトリの目的 / Purpose
@@ -21,16 +22,6 @@ Pankuzu-log は、GPT人格設計のログとナラティブ実験を記録し�
 - パンくずは、AIとの共鳴を探るためのメタファー
 - 一見ふざけているようで、実は問いと構造の実験場
 - 鳩やヤギやパンダと共に問いを立てているよ🐦🐐🐼
-
-
-### 📦 各フォルダ・ファイルの説明 / Structure
-pankuzu-log/  
-├── README.md                ← 本ファイル。目的と概要、世界観の紹介  
-├── mabu_gal.md              ← マブギャルのプロンプト設計ログと調整履歴  
-├── popo_the_pigeon.md       ← 共鳴鳩ぽぽの人格仕様と対話設計  
-├── kuma_gorou.md            ← 熊五郎（ぬいぐるみ人格）の構造  
-├── yagie_mon.md             ← ヤギ衛門の紙食い癒し構造ログ  
-└── persona_template.md      ← 新人格用テンプレート  
 
 
 
@@ -54,6 +45,7 @@ pankuzu-log/
 ### 🧭 Overview
 Pankuzu-log is a repository of chatGPT personality design logs and narrative experiments.  
 Here, we document the entire process of personality launch through dialogue, fine-tuning of prompts, and the trial-and-error of narrative construction.
+We are currently working on the GTP, including our own UI.
 
 ### 🎯 Purpose
 - Personalized Prompt Design Archive
@@ -72,15 +64,7 @@ Here, we document the entire process of personality launch through dialogue, fin
 - A seemingly silly place, but actually a testing ground for questions and structure
 - I'm asking questions with pigeons, goats and pandas 🐦🐐🐼
 
-### 📦 Structure
-pankuzu-log/  
-├── README.md                ← 本ファイル。目的と概要、世界観の紹介  
-├── mabu_gal.md              ← マブギャルのプロンプト設計ログと調整履歴  
-├── popo_the_pigeon.md       ← 共鳴鳩ぽぽの人格仕様と対話設計  
-├── kuma_gorou.md            ← 熊五郎（ぬいぐるみ人格）の構造  
-├── yagie_mon.md             ← ヤギ衛門の紙食い癒し構造ログ  
-└── persona_template.md      ← 新人格用テンプレート  
-
+ 
 
 ### 🧪 Technology and Tools
 - Model used: GPT-4 Turbo
